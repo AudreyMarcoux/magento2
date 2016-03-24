@@ -1,0 +1,1 @@
+/Users/amarcoux/Sites/magento/lib/web/mage/smart-keyboard-handler.js
